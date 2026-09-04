@@ -1,6 +1,7 @@
 # WEB APPLICATION DEVELOPMENT : Assignment 1
 
 A simple HTML webpage created for Assignment 1 - CSCS342 Web Application Development (Fall 2026).
+
 Name : Obil Nathaniel
 Roll : 271048001
 
