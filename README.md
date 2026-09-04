@@ -13,7 +13,7 @@ This page displays a birthday invitation including:
 ## Files
 
 - `index.html` - the main webpage
-- `cake.jpg` - the birthday cake image
+- `image.jpg` - the birthday cake image
 
 ## How to view
 
