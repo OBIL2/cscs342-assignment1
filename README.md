@@ -1,3 +1,4 @@
+# WEB APPLICATION DEVELOPMENT : Assignment 1
 
 A simple HTML webpage created for Assignment 1 - CSCS342 Web Application Development (Fall 2026).
 
@@ -7,7 +8,7 @@ This page displays a birthday invitation including:
 - A heading and subheading
 - A birthday cake image
 - A list of things to bring
-- A link to the location on Google Maps
+- A link to the event location on Google Maps
 
 ## Files
 
