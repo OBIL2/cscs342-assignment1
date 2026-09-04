@@ -12,9 +12,9 @@ This page displays a birthday invitation including:
 
 ## Files
 
-- `birthday.html` - the main webpage
+- `index.html` - the main webpage
 - `cake.jpg` - the birthday cake image
 
 ## How to view
 
-Download or clone this repo and then open `birthday.html` in any web browser.
+Download or clone this repo and then open `index.html` in any web browser.
