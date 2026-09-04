@@ -2,8 +2,9 @@
 
 A simple HTML webpage created for Assignment 1 - CSCS342 Web Application Development (Fall 2026).
 
-Name : Obil Nathaniel
-Roll : 271048001
+__Name__ : Obil Nathaniel
+
+__Roll__ : 271048001
 
 ## About
 
